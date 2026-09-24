@@ -41,27 +41,14 @@ Credit Card Volume replaced: $+229.9\%$
 Econometric estimates for the relationship between UPI and Debit Card show a negative association in a bivariate OLS ($\beta = -0.457$, HAC $p < 0.001$). This disappears when estimating a controlled specification (removing debit from retail payments), with the estimate turning positive ($\beta = +1.706$). This demonstrates that level regressions are capturing macroeconomic compositional shifts and not simple mechanical displacement.
 
 ## 4. Citation
+@misc{gupta_2026_kaggle_payments,
+  title     = {RBI & NPCI Payment Rails Time Series (2017–2026)},
+  author    = {Gupta, Samarth},
+  year      = {2026},
+  publisher = {Kaggle},
+  doi       = {10.34740/KAGGLE/DSV/19963981},
+  url       = {https://www.kaggle.com/dsv/19963981}
+}
 
-
-
-If you use this dataset or findings in academic research or industry analysis, cite the paper as:
-
-
-
-```bibtex
-
-@article{gupta2026upi,
-
-  title={The Diffusion of Digital Payments in India: Empirical Evidence on UPI Adoption and Rail Substitution, 2017--2026},
-
-  author={Gupta, Samarth},
-
-  journal={SSRN Electronic Journal},
-
-  year={2026},
-
-  month={September},
-
-  doi={10.2139/ssrn.7478227},
 
   url={[http://dx.doi.org/10.2139/ssrn.7478227](http://dx.doi.org/10.2139/ssrn.7478227)}
