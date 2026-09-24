@@ -8,6 +8,11 @@ This repository contains replication data for the work
 > Gupta, Samarth, The Diffusion of Digital Payments in India: Empirical Evidence on UPI Adoption and Rail Substitution, 2017-2026 (September 17, 2026). Available at SSRN: [https://ssrn.com/abstract=7478227](https://ssrn.com/abstract=7478227) or [http://dx.doi.org/10.2139/ssrn.7478227](http://dx.doi.org/10.2139/ssrn.7478227).
 ---
 
+### Dataset Identifiers & Mirrored Repositories
+* **Kaggle Dataset DOI:** [![DOI](https://img.shields.io/badge/DOI-10.34740%2Fkaggle%2Fdsv%2F19963981-blue)](https://doi.org/10.34740/kaggle/dsv/19963981)
+* **Kaggle Hub:** [RBI & NPCI Payment Rails Time Series (2017–2026)](https://www.kaggle.com/dsv/19963981)
+* **SSRN Working Paper:** [https://doi.org/10.2139/ssrn.7478227](https://doi.org/10.2139/ssrn.7478227)
+
 ## 1. Overview & Research Scope
 
 This study analyzes United Payments Interface (UPI)'s adoption in India over an 111-month period (April 2017 – June 2026), focusing on:
