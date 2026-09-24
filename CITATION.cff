@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset or replication code, please cite it as below."
+authors:
+  - family-names: "Gupta"
+    given-names: "Samarth"
+    orcid: "https://orcid.org/0009-0002-3301-2094"
+title: "India Payment Rails & UPI Diffusion Dataset (2017–2026)"
+version: 1.0.0
+doi: "10.34740/kaggle/dsv/19963981"
+date-released: 2026-09-25
+url: "https://github.com/sammyboii/upi-diffusion-dataset-2017-2026"
